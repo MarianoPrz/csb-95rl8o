@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://marianoprz.github.io/csb-95rl8o/static/css/main.5bc9dcaa.chunk.css",
+    "main.js": "https://marianoprz.github.io/csb-95rl8o/static/js/main.3027c84f.chunk.js",
+    "main.js.map": "https://marianoprz.github.io/csb-95rl8o/static/js/main.3027c84f.chunk.js.map",
+    "runtime-main.js": "https://marianoprz.github.io/csb-95rl8o/static/js/runtime-main.21c96c14.js",
+    "runtime-main.js.map": "https://marianoprz.github.io/csb-95rl8o/static/js/runtime-main.21c96c14.js.map",
+    "static/js/2.7e41a634.chunk.js": "https://marianoprz.github.io/csb-95rl8o/static/js/2.7e41a634.chunk.js",
+    "static/js/2.7e41a634.chunk.js.map": "https://marianoprz.github.io/csb-95rl8o/static/js/2.7e41a634.chunk.js.map",
+    "index.html": "https://marianoprz.github.io/csb-95rl8o/index.html",
+    "static/css/main.5bc9dcaa.chunk.css.map": "https://marianoprz.github.io/csb-95rl8o/static/css/main.5bc9dcaa.chunk.css.map",
+    "static/js/2.7e41a634.chunk.js.LICENSE.txt": "https://marianoprz.github.io/csb-95rl8o/static/js/2.7e41a634.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21c96c14.js",
+    "static/js/2.7e41a634.chunk.js",
+    "static/css/main.5bc9dcaa.chunk.css",
+    "static/js/main.3027c84f.chunk.js"
+  ]
+}
